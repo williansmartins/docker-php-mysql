@@ -9,3 +9,4 @@
 - Lets try connect from PHP to DB
 - Remember attr LINKS in docker-compose.yml
 - Install extensions ```docker-compose exec php docker-php-ext-install pdo pdo_mysql mysqli```
+- Restart container ```docker-compose stop && docker-compose start```
